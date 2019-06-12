@@ -8,6 +8,8 @@ public class Execucao {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//Objeto novo
 		Professor professor = new Professor();
 
 		professor.setNome(JOptionPane.showInputDialog(null, "Nome:"));
